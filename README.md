@@ -8,4 +8,5 @@
 6.2 Once the npm install is finished you can start the client with the "npm start" command.
 7.1 From the second terminal go into the server folder ("cd server") and tap "npm install"
 7.2 Once the npm install is completed start the server with the "npm start" command.
-8. Once the server and the client are started 
+8. Once the server and the client are started click on the blue Authentification text.
+9. Connect to Salesforce and authorize it.
